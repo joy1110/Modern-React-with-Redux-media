@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Ms. Daryl Rippin",
+      "id": 2
+    },
+    {
+      "name": "Iris Bradtke",
+      "id": 3
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
