@@ -11,8 +11,48 @@
     {
       "name": "Iris Bradtke",
       "id": 3
+    },
+    {
+      "name": "Karla Herzog",
+      "id": 4
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": "1"
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Cotton Towels",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Modern Bronze Keyboard",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Granite Chair",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Concrete Car",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Practical Plastic Salad",
+      "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Fresh Hat",
+      "id": 16
+    }
+  ],
   "photos": []
 }
